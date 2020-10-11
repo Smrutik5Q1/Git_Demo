@@ -1,1 +1,1 @@
-This is just to remember how to use git through commandline interface in Ubuntu
+This is just to remember---How to use git through commandline interface in Ubuntu.
